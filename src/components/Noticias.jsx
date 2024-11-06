@@ -46,7 +46,7 @@ const Noticias = () => {
   return (
     <section className="pt-8 px-4 flex flex-col gap-6">
       <header>
-        <h1 className="text-4xl font-semibold">Discover</h1>
+        <h1 className="text-4xl font-semibold">Discover news</h1>
         <p className="text-xs text-gray-500">News from all around the world</p>
       </header>
       <Filtros
